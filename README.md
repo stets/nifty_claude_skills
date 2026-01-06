@@ -25,7 +25,7 @@ Skills are reusable capabilities you can add to Claude Code. They extend what Cl
 1. Clone this repository into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-summarize-skill.git ~/.claude/skills/youtube-summarize
+git clone https://github.com/stets/nifty_claude_skills.git ~/.claude/skills/youtube-summarize
 ```
 
 2. Set up the Python virtual environment and install dependencies:
